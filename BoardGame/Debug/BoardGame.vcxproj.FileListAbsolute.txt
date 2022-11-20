@@ -1,0 +1,4 @@
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\Debug\BoardGame.MyForm.resources
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\Debug\BoardGame.vcxproj.GenerateResource.cache
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\Debug\BoardGame.Board.resources
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\Debug\BoardGame.vcxprojAssemblyReference.cache

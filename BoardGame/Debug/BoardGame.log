@@ -1,0 +1,8 @@
+﻿  ForSystem.cpp
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\Player.h(55,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\ForSystem.cpp(138,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\ForSystem.cpp(138,42): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\ForSystem.cpp(143,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\ForSystem.cpp(164,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ForSystem.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+  BoardGame.vcxproj -> C:\Users\kkkk4\source\repos\BoardGame\Debug\BoardGame.exe

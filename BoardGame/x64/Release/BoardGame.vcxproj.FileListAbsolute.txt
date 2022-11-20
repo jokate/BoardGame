@@ -1,0 +1,3 @@
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\x64\Release\BoardGame.Board.resources
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\x64\Release\BoardGame.MyForm.resources
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\x64\Release\BoardGame.vcxproj.GenerateResource.cache

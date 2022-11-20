@@ -1,0 +1,11 @@
+﻿  ForSystem.cpp
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\Cell.h(40,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\ForSystem.cpp(142,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.cpp
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\Cell.h(40,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Board.cpp
+C:\Users\kkkk4\source\repos\BoardGame\BoardGame\Cell.h(40,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  코드를 생성하고 있습니다...
+  ForSystem.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+  BoardGame.vcxproj -> C:\Users\kkkk4\source\repos\BoardGame\x64\Release\BoardGame.exe
